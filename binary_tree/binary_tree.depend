@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1623932876 source:e:\data structure\binary_tree\main.cpp
+	<iostream>
+	<queue>
+
